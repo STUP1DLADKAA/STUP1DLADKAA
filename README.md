@@ -1,74 +1,75 @@
 <div align="center">
-
-# Manish Paudel
-
-### I build web experiences, useful tools, and communities people enjoy returning to.
-
-<a href="https://github.com/stupidladkaa"><img src="https://img.shields.io/badge/GitHub-stupidladkaa-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://discord.com/users/922359954025885737"><img src="https://img.shields.io/badge/Discord-Message%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord" /></a>
-
-<br />
-<br />
-
-> **Available for thoughtful projects** — web products, community tools, and game experiences.
-
+  <img src="./assets/profile-header.svg" alt="Manish Paudel — Full-stack developer and founder at StupidGames-MC" width="100%" />
+  <br />
+  <br />
+  <a href="https://github.com/stupidladkaa"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://discord.com/users/922359954025885737"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Message Manish on Discord" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-1D9B5B?style=flat-square" alt="Open to collaborate" />
 </div>
 
----
+<br />
 
-## Hello
+## About me
 
-I’m the founder of **StupidGames-MC**. I enjoy taking an idea from a rough sketch to something real: a clear interface, dependable features, and a smooth experience for the people using it.
+I build things for the web and the communities around them. That can mean a clear, fast website, a Discord bot that saves a team time, or a Minecraft server feature that makes a player’s day better.
 
-My work sits where product design, web development, automation, and online communities meet.
+I’m **Manish**, founder of **StupidGames-MC**. I like turning a good idea into something people can use without needing a manual.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 — Build</h3>
-      <p>Web apps and interfaces that are quick to understand and pleasant to use.</p>
+      <h3>✦ Web products</h3>
+      <p>Thoughtful interfaces and full-stack features, shaped around the people using them.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 — Connect</h3>
-      <p>APIs and small services that make separate tools work better together.</p>
+      <h3>↗ Connected tools</h3>
+      <p>APIs and services that help products and teams work together smoothly.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 — Automate</h3>
-      <p>Discord bots and helpful workflows that give communities more time to be communities.</p>
+      <h3>⌁ Community automation</h3>
+      <p>Discord bots and helpful workflows that keep community work simple.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 — Create</h3>
-      <p>Minecraft server systems and player experiences built to feel considered.</p>
+      <h3>◆ Game experiences</h3>
+      <p>Minecraft server systems with player experience and reliability in mind.</p>
     </td>
   </tr>
 </table>
 
-## What matters to me
+## How I like to work
 
 <div align="center">
 
-`Simple first` &nbsp; `Details matter` &nbsp; `Fast feels better` &nbsp; `Built to last`
+| Clear before clever | Small details, done well | Fast and dependable | People first |
+| :---: | :---: | :---: | :---: |
+| Easy to understand | Worth noticing | Ready for real use | Built for the user |
 
 </div>
 
-I like clean layouts, sensible choices, and software that stays easy to work with after launch. The goal is not just to ship a feature—it is to make it feel obvious, reliable, and worth coming back to.
+Good work should feel calm. I aim for clear choices, clean layouts, and features that remain easy to maintain after launch. The best result is something that feels natural from the first click.
 
-## Right now
+## On the desk now
 
-- Making better tools for online communities.
-- Improving the small details that make web products feel great.
-- Exploring new ideas for Minecraft players and server teams.
+<details open>
+  <summary><strong>Current focus</strong></summary>
+  <br />
 
----
+  - Better tools for online communities.
+  - The small details that make web products feel polished.
+  - New ideas for Minecraft players and server teams.
+</details>
+
+<details>
+  <summary><strong>Let’s build something good</strong></summary>
+  <br />
+
+  I’m interested in web products, community platforms, developer tools, and game projects. Reach me through <a href="https://github.com/stupidladkaa">GitHub</a> or <a href="https://discord.com/users/922359954025885737">Discord</a>.
+</details>
+
+<br />
 
 <div align="center">
-
-### Have an idea worth building?
-
-I’m always interested in well-made products, community platforms, and game projects. Say hello on [GitHub](https://github.com/stupidladkaa) or [Discord](https://discord.com/users/922359954025885737).
-
-<sub>Made with care. Shipped with purpose.</sub>
-
+  <sub>Made with care. Shipped with purpose.</sub>
 </div>
